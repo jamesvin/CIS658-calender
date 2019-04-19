@@ -1,0 +1,23 @@
+
+#calendarTable {
+    border: 1px solid black;
+}
+
+#leftArrow {
+	width: 40px;
+	height: 40px;
+}
+
+#rightArrow {
+	width: 40px;
+	height: 40px;
+}
+
+#calendarTable th, td {
+  border: 1px solid black;
+}
+
+#monthHeader, #yearHeader {
+	font-size: 18px;
+	font-weight: bold;
+}
